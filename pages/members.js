@@ -17,7 +17,7 @@ module.exports = function (state, emit) {
     <div class="cf pa2 pa2-ns ph2-ns">
       <article class="fl mw5 bg-white br3 pa4 pa4-ns ma3-ns">
         <div class="tc">
-          <img src="./assets/members/avatar-1.png" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+          <img src="../assets/members/avatar-1.png" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
           <h1 class="f4">Akashi Samejima</h1>
         </div>
         <p class="lh-copy measure center f6 black-70">
@@ -28,7 +28,7 @@ module.exports = function (state, emit) {
       </article>
       <article class="fl mw5 bg-white br3 pa4 pa4-ns ma3-ns">
         <div class="tc">
-          <img src="./assets/members/avatar-2.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+          <img src="../assets/members/avatar-2.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
           <h1 class="f4">Haruhara Kurumi</h1>
         </div>
         <p class="lh-copy measure center f6 black-70">
@@ -39,7 +39,7 @@ module.exports = function (state, emit) {
       </article>
       <article class="fl mw5 bg-white br3 pa4 pa4-ns ma3-ns">
         <div class="tc">
-          <img src="./assets/members/avatar-3.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+          <img src="../assets/members/avatar-3.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
           <h1 class="f4">Mizaho Sagi</h1>
         </div>
         <p class="lh-copy measure center f6 black-70">
@@ -50,7 +50,7 @@ module.exports = function (state, emit) {
       </article>
       <article class="fl mw5 bg-white br3 pa4 pa4-ns ma3-ns">
         <div class="tc">
-          <img src="./assets/members/avatar-4.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+          <img src="../assets/members/avatar-4.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
           <h1 class="f4">Iroha Kaname</h1>
         </div>
         <p class="lh-copy measure center f6 black-70">
@@ -61,7 +61,7 @@ module.exports = function (state, emit) {
       </article>
       <article class="fl mw5 bg-white br3 pa4 pa4-ns ma3-ns">
         <div class="tc">
-          <img src="./assets/members/avatar-5.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+          <img src="../assets/members/avatar-5.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
           <h1 class="f4">Serika Makise</h1>
         </div>
         <p class="lh-copy measure center f6 black-70">
@@ -72,7 +72,7 @@ module.exports = function (state, emit) {
       </article>
       <article class="fl mw5 bg-white br3 pa4 pa4-ns ma3-ns">
         <div class="tc">
-          <img src="./assets/members/avatar-6.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+          <img src="../assets/members/avatar-6.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
           <h1 class="f4">Chizuru Sagawa</h1>
         </div>
         <p class="lh-copy measure center f6 black-70">
@@ -83,7 +83,7 @@ module.exports = function (state, emit) {
       </article>
       <article class="fl mw5 bg-white br3 pa4 pa4-ns ma3-ns">
         <div class="tc">
-          <img src="./assets/members/avatar-7.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+          <img src="../assets/members/avatar-7.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
           <h1 class="f4">Mirai Akemi</h1>
         </div>
         <p class="lh-copy measure center f6 black-70">

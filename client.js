@@ -11,6 +11,7 @@ app.route('/', require('./pages/home'))
 app.route('/projects', require('./pages/projects'))
 app.route('/members', require('./pages/members'))
 app.route('/contact', require('./pages/contact'))
+app.route('*', require('./pages/home'))
 
 if (process.env.NODE_ENV !== 'production') {
   app.use(require('choo-devtools')())
