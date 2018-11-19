@@ -2,7 +2,7 @@
   "name": "kumo-kollective",
   "version": "1.0.0",
   "description": "Created with choo-cli",
-  "homepage": "http://almchung.github.io/kumo-kollective",
+  "homepage": "http://almchung.github.io/kumo-kollective/",
   "main": "client.js",
   "scripts": {
     "start": "bankai start client.js",
