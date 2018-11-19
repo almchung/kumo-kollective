@@ -1,0 +1,28 @@
+{
+  "name": "kumo-kollective",
+  "version": "1.0.0",
+  "description": "Created with choo-cli",
+  "main": "client.js",
+  "scripts": {
+    "start": "bankai start client.js",
+    "build:prod": "bankai build client.js dist/",
+    "lint": "standard --verbose | snazzy",
+    "test": "npm run lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "choo": "^6.1.0",
+    "choo-devtools": "^2.5.1",
+    "gh-pages": "^2.0.1",
+    "sheetify": "^7.3.3",
+    "tachyons": "^4.11.1",
+    "tachyons-font-family": "^4.3.4"
+  },
+  "devDependencies": {
+    "bankai": "^9.0.0-rc7",
+    "snazzy": "^7.0.0",
+    "standard": "^8.6.0"
+  }
+}
