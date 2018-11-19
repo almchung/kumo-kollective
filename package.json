@@ -2,12 +2,15 @@
   "name": "kumo-kollective",
   "version": "1.0.0",
   "description": "Created with choo-cli",
+  "homepage": "http://almchung.github.io/kumo-kollective",
   "main": "client.js",
   "scripts": {
     "start": "bankai start client.js",
     "build:prod": "bankai build client.js dist/",
     "lint": "standard --verbose | snazzy",
-    "test": "npm run lint"
+    "test": "npm run lint",
+    "predeploy": "npm run build:prod",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
