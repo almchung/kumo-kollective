@@ -10,7 +10,7 @@ module.exports = function (state, emit) {
     </header>
     <body class="bg-lightest-blue">
     <nav class="avenir pa4 pa4-ns">
-      <a class="link dim dark-gray    f6 f5-ns dib mr3" href="/" title="KUMO">KUMO</a>
+      <a class="link dim dark-gray    f6 f5-ns dib mr3" title="KUMO">KUMO</a>
       <a class="link dim dark-gray    f6 f5-ns dib mr3" href="projects" title="Projects">Projects</a>
       <a class="link dim dark-gray    f6 f5-ns dib mr3" href="members" title="Members">Members</a>
       <a class="link dim dark-gray    f6 f5-ns dib" href="contact" title="Contact">Contact</a>
