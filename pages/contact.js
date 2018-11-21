@@ -32,6 +32,9 @@ module.exports = function (state, emit) {
           </a>
         </div>
       </article>
+      <article class="mw6 center br3 pa4 pa5-ns mv3 measure">
+        <p class="dark-gray f6">Inquiries regarding our anthology books and comic book exchange projects please contact our editor : <a class="dark-gray f6" href="http://almchng.com">AlM CHNG</a></p>
+      </article>
     </body>
   </html>
   `
