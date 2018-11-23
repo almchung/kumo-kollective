@@ -20,7 +20,7 @@ module.exports = function (state, emit) {
         <h3 class="kokoro tr f5 f4-l lh-copy">メンバーズ</h3>
       </section>
       <section class="center mw6 mw7-l cf pa2 pa4-ns">
-        <img src="../assets/members/relationship-chart.jpg" class="mw-100" alt="relationship-chart">
+        <img src="https://www.dropbox.com/s/72uxlmzbu4pi56z/rl-chart.jpg?dl=1" class="mw-100" alt="relationship-chart">
       </section>
       <section class="center mw6 mw8-l cf pa2 pa4-ns">
         <article class="fr-l mw5-l bg-white br3 pa4 ma4 pa4-l ma3-l">
@@ -77,7 +77,7 @@ module.exports = function (state, emit) {
             <h1 class="f4">Serika Makise</h1>
           </div>
           <p class="lh-copy measure center f7 black-70 h5-l pt3">
-            Serika Makiseは作家という言葉よりも先に普通の科学ドラに自分自身を紹介する。力学システムの内製している詩的要素を可視化する作業をしている。他の言葉で、定数とかというものについて簡単に導かれてしまういくつかの特定の種類の耽美主義の自己探求かもしれない。
+            Serika Makiseは作家という言葉よりも先に普通の科学ドラに自分自身を紹介する。力学システムの内在した詩的エレメントを可視化する作業をしている。他の言葉で、定数とかというものについて簡単に導かれてしまういくつかの特定の種類の耽美主義の自己探求かもしれない。
           </p>
           <p class="lh-copy measure center f6 black-70">
             Favorite 🍦 : olive oil and salt
@@ -101,7 +101,7 @@ module.exports = function (state, emit) {
             <h1 class="f4">Mirai Akemi</h1>
           </div>
           <p class="lh-copy measure center f7 black-70 h5-l pt3">
-            Mirai Akemi作家はどこか少しおかしい。自分の作業について説明してほしいという要求にAkemiさんはjpeg画像圧縮時に発生する欠損についてエディタに二時間の間に連続メッセージを送ってきた。ヨトン間、最初はかなりなじみ見えるAkemiさんの作品だが、computer vision、machine learningなど、現在ホットtechキーワードが目に入ってくる瞬間、その作品が置かれた状況に対して在庫になる。
+            Mirai Akemi作家はどこか少しおかしい。自分の作業について説明してほしいという要求にAkemiさんはjpeg画像圧縮時に発生する欠損についてエディタに二時間の間に連続メッセージを送ってきた。あふれ出るテキスト出力にどうしても誤ったコマンドを入力してしまったような気分になった... とにかく、最初はかなりなじみ見えるAkemiさんの作品だが、computer vision、machine learningなど、現在ホットtechキーワードが目に入ってくる瞬間、その作品が置かれた状況に対して在庫になる。
           </p>
           <p class="lh-copy measure center f6 black-70">
             Favorite 🍦 : dark chocolate with milk chocolate chip cookie dough
