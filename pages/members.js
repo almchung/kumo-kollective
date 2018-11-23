@@ -21,6 +21,9 @@ module.exports = function (state, emit) {
       </section>
       <section class="center mw6 mw7-l cf pa2 pa4-ns">
         <img src="https://www.dropbox.com/s/72uxlmzbu4pi56z/rl-chart.jpg?dl=1" class="mw-100" alt="relationship-chart">
+        <p class="lh-copy measure-wide center f6 pt5">
+          Formed in 2017, KUMO Kollective is interested in the intersection where the format of comics meets algorithm-based image production means. Currently, we are a group of seven friends and foes (Akashi Samejima, Haruhara Kurumi, Mizuho Sagi, Iroha Kaname, Serika Makise, Chizuru Sagawa, and Mirai Akemi) and constantly looking for more members and collaborators.
+        </p>
       </section>
       <section class="center mw6 mw8-l cf pa2 pa4-ns">
         <article class="fr-l mw5-l bg-white br3 pa4 ma4 pa4-l ma3-l">
