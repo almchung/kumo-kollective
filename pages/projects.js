@@ -25,8 +25,10 @@ module.exports = function (state, emit) {
             <img style="background-image:url(../assets/projects/elongation-vol0-2-preview.jpg)" 
             class="db bg-center cover aspect-ratio--object" />
           </div>
+          <a href="https://almchng.itch.io/elongation-v-0" class="ph2 ph0-ns pb3 link db">
             <h3 class="f5 f4-ns mb0 black-90">Elongation vol 0</h3>
             <h3 class="f6 f5 fw4 mt2 black-60">Nov 2018</h3>
+          </a>
         </article>
         <article class="fl w-100 w-50-m  w-25-ns pa2-ns pv4">
           <div class="aspect-ratio aspect-ratio--1x1">
